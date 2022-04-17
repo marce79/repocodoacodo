@@ -1,0 +1,12 @@
+h1 {
+    color: navy;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: lightgrey;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    font-family: Arial;
+    font-size: 1.5em;
+}
